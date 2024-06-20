@@ -23,4 +23,4 @@
 * you can check the logic inside `id.yuana.apk.update.demo.ui.MainActivity.kt`
 
 ## Demo
-[![Watch the video](https://img.youtube.com/vi/0OryIFgzt7M/default.jpg)](https://www.youtube.com/watch?v=0OryIFgzt7M)
+[![Watch the video](https://img.youtube.com/vi/0OryIFgzt7M/hqdefault.jpg)](https://www.youtube.com/watch?v=0OryIFgzt7M)
